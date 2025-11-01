@@ -238,8 +238,6 @@ Kurulum tamamlandığında karşılaşılan ilk ekran.
 2. Temel yapılandırmaları (ag ayarları, role ekleme) yapmaya başlayın.
 
 > 🎉 **Tebrikler!**  
-> Artık Windows Server 2025 üzerinde testlerinizi gerçekleştirebilirsiniz.
-> Windows Server 2025 kurulumu başarıyla tamamlandı.
-> ```
+> Windows Server 2025 kurulumu başarıyla tamamlandı. Artık Windows Server 2025 üzerinde testlerinizi gerçekleştirebilirsiniz.
 
 **#WindowsServer2025 #VMware #SanalMakine #BlogRehberi**
