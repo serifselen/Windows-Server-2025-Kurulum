@@ -126,12 +126,12 @@ Sonraki adımlarda **RAM, işlemci çekirdeği** ve ağ ayarları özelleştiril
 ![Adım 8: Dil ve Zaman Ayarları](Images/8.png)
 
 **Açıklama:**  
-Kurulum介质'ı başlatıldıktan sonra ilk açılış ekranı.
+Kurulum başlatıldıktan sonra ilk açılış ekranı.
 
 **Nasıl Devam Edilir?**  
 - **Language** ve  
 - **Time** ayarlarını seçin.
-- **Install Now** butonuna tıklayın.
+- **Next** butonuna tıklayın.
 
 > 🌍 **Dil Seçimi Tavsiyesi:**  
 > Türkçe seçerseniz, kurulum daha anlaşılır olacaktır. Ancak enterprise ortamlarda İngilizce tercih edilir.
@@ -175,11 +175,11 @@ Windows Server 2025 için lisans anahtarı isteyen ekran.
 Kurulum türünü seçtiğiniz ekran.
 
 **Nasıl Devam Edilir?**  
-- **"Custom: Install Windows only (advanced)"** seçeneğini işaretleyin.
+- **"Windows Server 2025 Standart Evalution (Desktop Experience)"** seçeneğini işaretleyin.
 - **Next** butonuna tıklayın.
 
-> 💡 **Neden Custom?**  
-> "Upgrade" seçeneği, mevcut bir Windows sürümünü yükseltmek için kullanılır. Yeni kurulumda "Custom" tercih edilmelidir.
+> 💡 **Neden Desktop Experience?**  
+> "Desktop Experience" seçeneği, alışık olduğumuz windows masaüstü arayüzüne erişim sağlayıp kullanımı kolaylaştırdığı için tercih edilmelidir.
 
 ---
 
@@ -190,12 +190,11 @@ Kurulum türünü seçtiğiniz ekran.
 Sanal diski bölümleyeceğiniz ekran.
 
 **Nasıl Devam Edilir?**  
-- **New** butonuna tıklayarak disk oluşturun.
-- **Apply** butonuna tıklayarak bölümleme işlemini tamamlayın.
+- **Disk 0** diske tıklayarak bölümleme işlemini tamamlayın.
 - **Next** butonuna tıklayın.
 
 > ⚠️ **Dikkat Edilmesi Gerekenler:**  
-> - Disk boyutu 120 GB olarak ayarlanmış olmalı.  
+> - Disk boyutu 100 GB olarak ayarlanmış olmalı.  
 > - "Format" işlemi otomatik olarak yapılır.
 
 ---
@@ -222,8 +221,6 @@ Windows Server 2025 kurulumunun devam ettiği ekran.
 Yönetici hesabını oluşturduğunuz ekran.
 
 **Nasıl Devam Edilir?**  
-- **Username** kısmına  
-- `admin` yazın.
 - **Password** kısmına güçlü bir şifre girin.
 - **Finish** butonuna tıklayın.
 
@@ -232,15 +229,15 @@ Yönetici hesabını oluşturduğunuz ekran.
 
 ---
 
-## 🔧 Adım 15: Windows Server 2025 Başarıyla Kuruldu!
-![Adım 15: Kurulum Tamamlandı](Images/15.png)
+## 🔧 Adım 15: Tanımlama verilerini Microsota Gönderin!
+![Adım 15: Tanımlama verileri](Images/15.png)
 
 **Açıklama:**  
-Kurulum tamamlandığında karşılaşılan ilk ekran.
+Son olarak server içerisinde tanımlmala verilerini Microsota gönderme seçenekleri çıkmaktadır.
 
 **Nasıl Devam Edilir?**  
-- **Server Manager** arayüzüne giriş yapın.
-- Temel yapılandırmaları (ağ ayarları, role ekleme) yapmaya başlayın.
+- **Required only** seçilerek ilgili verilen gitmemesi seçilir.
+- **Accept** seçilerek kurulum tamamlanır.
 
 > 🎉 **Tebrikler!**  
 > Windows Server 2025 kurulumu başarıyla tamamlandı. Artık Windows Server 2025 üzerinde testlerinizi gerçekleştirebilirsiniz.  
