@@ -239,7 +239,7 @@ Kurulum tamamlandığında karşılaşılan ilk ekran.
 
 > 🎉 **Tebrikler!**  
 > Artık Windows Server 2025 üzerinde testlerinizi gerçekleştirebilirsiniz.
-> Windows Server 2025 kurulumu başarıyla tamamlandı.*
+> Windows Server 2025 kurulumu başarıyla tamamlandı.
 > ```
 
 **#WindowsServer2025 #VMware #SanalMakine #BlogRehberi**
