@@ -68,7 +68,7 @@ Guest Operating System Installation ekranında işletim sisteminin nasıl yükle
    - "No drives available" görünüyorsa fiziksel medya takılı değildir
 
 2. **Installer disc image file (iso)**: ISO dosyası kullanarak kurulum yapar
-   - Örnekte: `C:\Users\PC\Downloads\Windows 11.iso` dosya yolu belirtilmiştir
+   - Örnekte: `C:\Users\PC\Downloads\Windows Server 2025.iso` dosya yolu belirtilmiştir
 
 3. **I will install the operating system later**: Sanal makine boş sabit diskle oluşturulur
    - İşletim sistemi daha sonra manuel olarak kurulur
@@ -107,10 +107,10 @@ Name the Virtual Machine ekranında sanal makinenin adı ve dosyalarının sakla
 
 ### Yapılandırma:
 
-**Virtual machine name**: `SerifBelen`
+**Virtual machine name**: `SerifSelen`
 - Bu ismi kendi tercihlerinize göre değiştirebilirsiniz
 
-**Location**: `C:\Users\PC\Documents\Virtual Machines\SerifBelen`
+**Location**: `C:\Users\PC\Documents\Virtual Machines\SerifSelen`
 - Varsayılan konum olarak belirlenmiştir
 - "Browse..." butonuna tıklayarak farklı bir konum seçebilirsiniz
 
@@ -423,7 +423,7 @@ Bu adımları tamamladıktan sonra Windows Server 2025 sisteminiz kullanıma haz
 
 | Bilgi | Değer |
 |-------|-------|
-| **Hazırlayan** | Serif Belen |
+| **Hazırlayan** | Serif SELEN |
 | **Tarih** | 2 Kasım 2025 |
 | **Platform** | VMware Workstation Pro 17 |
 | **İşletim Sistemi** | Windows Server 2025 Standard Evaluation (Desktop Experience) |
