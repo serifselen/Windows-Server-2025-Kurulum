@@ -239,15 +239,6 @@ Kurulum tamamlandığında karşılaşılan ilk ekran.
 
 > 🎉 **Tebrikler!**  
 > Artık Windows Server 2025 üzerinde testlerinizi gerçekleştirebilirsiniz.
-
----
-
-## 📌 Sonuç ve GitHub Paylaşımı
-Tüm ekran görüntüleri ve bu rehberi **[GitHub profilinizde](https://github.com/kullaniciadi)** paylaşarak topluluğa katkı sağlayabilirsiniz. 
-
-> **GitHub README.md İpucu:**  
-> ```markdown
-> ![Kurulum Tamamlandı](Images/15.png)  
 > *Windows Server 2025 kurulumu başarıyla tamamlandı.*
 > ```
 
